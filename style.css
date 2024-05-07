@@ -1,6 +1,8 @@
   
   body {
-    margin: auto;
+    width: 1400px;
+    margin-left: -80px;
+    overflow-x: hidden;
   }
   .page{
       border: 0px;
